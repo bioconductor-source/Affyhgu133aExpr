@@ -1,12 +1,12 @@
 Package: Affyhgu133aExpr
 Type: Package
 Title: Affymetrix Human hgu133a Array (GPL96) Expression Data Package
-Version: 1.5.0
+Version: 1.5.1
 Date: 2014-4-9
 Author: Zhicheng Ji, Hongkai Ji
 Maintainer: Zhicheng Ji <zji4@jhu.edu>
 Description: Contains pre-built human (GPL96) database of gene expression profiles. The gene expression data was downloaded from NCBI GEO, preprocessed and normalized consistently. The biological context of each sample was recorded and manually verified based on the sample description in GEO.
 License: GPL (>=2)
 Depends: R (>= 2.10)
-biocViews: AffymetrixChIP, Homo_sapiens
+biocViews: Homo_sapiens_Data, GEO
 Packaged: 2014-02-22 00:47:26 UTC; zji4
